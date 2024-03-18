@@ -20,10 +20,10 @@
 > Email: admin@test.com || Password: 87654321
 
 ## Demo
-![Triangle POS](public/images/screenshot.jpg)
+![Inventory Management](public/images/screenshot.jpg)
 **Live Demo:** will update soon
 
-## Triangle POS Features
+## Inventory Management Features
 
 - **Products Management & Barcode Printing**
 - **Stock Management**
